@@ -7,3 +7,15 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+html{
+  font-size: 18px;
+  line-height: 24px;
+}
+h1,
+#Merri{
+  font-family: "Merriweather";
+}
+h2,
+#Noto{
+ font-family: "Noto Serif";
+}
