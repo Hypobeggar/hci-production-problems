@@ -30,12 +30,15 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guideline One (URL):
+https://developer.apple.com/design/human-interface-guidelines/ios/bars/sidebars/
 * Describe how you implemented that guideline in your sketch:
 
 * HCI Guideline Two (URL):
+https://developer.apple.com/design/human-interface-guidelines/ios/bars/search-bars/
 * Describe how you implemented that guideline in your sketch:
 
 * HCI Guideline Three (URL):
+https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/modality/
 * Describe how you implemented that guideline in your sketch:
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
