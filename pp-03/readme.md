@@ -31,15 +31,18 @@ Small commits to your Production Problems repository that include:
 
 * HCI Guideline One (URL):
 https://developer.apple.com/design/human-interface-guidelines/ios/bars/sidebars/
-* Describe how you implemented that guideline in your sketch:
+* Describe how you implemented that guideline in your sketch: I aimed to remove the many navigations
+at the top of various pages. So by using the side bar to make 2 levels in the side bar.
 
 * HCI Guideline Two (URL):
 https://developer.apple.com/design/human-interface-guidelines/ios/bars/search-bars/
-* Describe how you implemented that guideline in your sketch:
+* Describe how you implemented that guideline in your sketch: Here I focused moving the search from
+the footer and moving it to the top. It would remain constant when scrolling.
 
 * HCI Guideline Three (URL):
 https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/modality/
-* Describe how you implemented that guideline in your sketch:
+* Describe how you implemented that guideline in your sketch: The menu bar currently uses a lot of
+space. Using modality to "extend" the menu bar instead of pushing the context out of frame.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
