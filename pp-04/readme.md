@@ -11,6 +11,7 @@ Basecamp thread, and then choose as a team what coordination software you will u
 (e.g., your own Basecamp project [NOT the class-wide one], Slack, Discord, or something else).
 
 Write the name of the communication service your team has decided to use:
+Discord
 
 2. **Only one member of your team should complete this step.** In your project coordination software
 of choice, discuss and choose one member who will create the free GitHub Organization account for
@@ -26,11 +27,11 @@ organization. Initializing it on GitHub with a `README.md` file is fine, unless 
 a repository on a team member’s computer. **That will be your shared repository for Project Two.**
 
 3. Copy and paste the URL for your team’s GitHub organization here:
-
+https://github.com/hci-Magnezing
 4. Copy and paste the URL showing your team’s GitHub organization members here:
-
+https://github.com/hci-Magnezing
 5. Copy and paste the URL for your team’s shared repository for Project Two here:
-
+https://github.com/hci-Magnezing/Project2
 6. Each member of the team should then fork the team repository from within the team organization
 on GitHub (so, too, should the team member who created the GitHub organization for your project).
 
