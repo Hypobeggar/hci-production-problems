@@ -36,7 +36,7 @@ https://github.com/hci-Magnezing/Project2
 on GitHub (so, too, should the team member who created the GitHub organization for your project).
 
 Copy and paste the URL for your personal fork of the repository here:
-
+https://github.com/Hypobeggar/Project2-1/tree/main
 7. Each member of the team should clone their forked copy of the repository to their local
 computer. Once you have cloned the forked copy, you should add the *upstream*, team repository as a
 second remote. Run `git remote add upstream` followed by the URL for your team’s repository.
@@ -50,6 +50,10 @@ pull upstream main`) to get any other team members’ names and strengths. Add a
 work, and push to your own repository (`git push origin self-intro`).
 
 Copy and paste the URL of your pull request here:
+origin	git@github.com:Hypobeggar/Project2-1.git (fetch)
+origin	git@github.com:Hypobeggar/Project2-1.git (push)
+upstream	git@github.com:hci-Magnezing/Project2.git (fetch)
+upstream	git@github.com:hci-Magnezing/Project2.git (push)
 
 9. Finally, within your fork of the repository on GitHub, open up a pull request from your
 `self-intro` branch to `main` branch in the shared  repository. Each team member should review the
